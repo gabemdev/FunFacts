@@ -1,4 +1,4 @@
-FunFacts
-========
+## FunFacts
+================
 
 Random quotes App
